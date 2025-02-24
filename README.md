@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Weather App
 
 A modern weather application built with React that provides real-time weather information with a sleek user interface.
@@ -25,3 +26,6 @@ A modern weather application built with React that provides real-time weather in
 ```bash
 git clone https://github.com/Sigma0007/Weather-app.git
 ```
+=======
+# Weather-app
+>>>>>>> a7acb74e18397e1616c7d69ea5389d25824a60e7
